@@ -1,0 +1,83 @@
+enum UserRole {
+  Teacher
+  Administrator
+}
+
+enum TeacherGender {
+  Male
+  Female
+}
+
+enum Faculty {
+  ComputerScience
+  Mathematics
+  Physics
+}
+
+enum WeekDay {
+  Saturday
+  Sunday
+  Monday
+  Tuesday
+  Wednesday
+  Thursday
+  Friday
+}
+
+enum TimeSlot {
+  Slot1
+  Slot2
+  Slot3
+  Slot4
+  Slot5
+  Slot6
+}
+
+enum Cycle {
+  Master
+  Bachelor
+  Engineering
+}
+
+enum CycleYear {
+  Y1
+  Y2
+  Y3
+  Y4
+  Y5
+}
+
+enum Semester {
+  First
+  Second
+}
+
+enum ScheduledClassType {
+  Lecture
+  DirectedWork
+  PracticalWork
+}
+
+enum GroupCourseAssignmentType {
+  DirectedWork
+  PracticalWork
+}
+
+enum ClassroomType {
+  Basic
+  Amphitheater
+  Laboratory
+}
+
+enum ClassroomFeature {
+  Projector
+  NetTools
+  Wifi
+  Computers
+}
+
+enum TeacherComplaintStatus {
+  Pending
+  Accepted
+  Rejected
+}

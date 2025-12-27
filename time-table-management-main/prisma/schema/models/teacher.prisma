@@ -1,0 +1,21 @@
+model Teacher {
+  id                 String                    @id @default(uuid())
+  firstName          String
+  lastName           String
+  email              String                    @unique
+  phone              String                    @unique
+  gender             TeacherGender
+  userId             String                    @unique
+  createdAt          DateTime                  @default(now())
+  updatedAt          DateTime                  @updatedAt
+  availabilities     WeekDay[]
+  primaryCourseId    String
+  faculty            Faculty
+  schedules          ClassSchedule[]
+  groupAssignments   GroupCourseAssignment[]
+  sectionAssignments SectionCourseAssignment[]
+  primaryCourse      Course                    @relation("PrimaryCourse", fields: [primaryCourseId], references: [id])
+  user               User                      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  complaints         TeacherComplaint[]
+  secondaryCourses   Course[]                  @relation("SecondaryCourses")
+}

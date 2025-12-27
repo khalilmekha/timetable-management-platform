@@ -1,0 +1,452 @@
+[
+  {
+    "first_name": "Ayoub",
+    "last_name": "Benhaddou",
+    "email": "ayoub.benhaddou@gmail.com",
+    "phone": "0710698926",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Algorithms and Data Structures", "CS101"],
+    "secondary_courses": [
+      ["Statistics", "CS104"],
+      ["Operating Systems 2", "CS120"]
+    ]
+  },
+  {
+    "first_name": "Rima",
+    "last_name": "Fassi",
+    "email": "rima.fassi@gmail.com",
+    "phone": "0781963967",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Numerical Analysis", "CS102"],
+    "secondary_courses": [["Compilers", "CS119"]]
+  },
+  {
+    "first_name": "Mohamed",
+    "last_name": "Bou",
+    "email": "mohamed.bou@gmail.com",
+    "phone": "0603037461",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Mathematical Logic", "CS103"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Sahar",
+    "last_name": "El",
+    "email": "sahar.el@gmail.com",
+    "phone": "0667682277",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Statistics", "CS104"],
+    "secondary_courses": [
+      ["Information Systems 2", "CS117"],
+      ["Final Year Project", "CS125"]
+    ]
+  },
+  {
+    "first_name": "Nasser",
+    "last_name": "Hajj",
+    "email": "nasser.hajj@gmail.com",
+    "phone": "0694337872",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Computer Architecture 1", "CS105"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Basma",
+    "last_name": "Boussalem",
+    "email": "basma.boussalem@gmail.com",
+    "phone": "0676769711",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Information Systems", "CS106"],
+    "secondary_courses": [["Object Oriented Programming", "CS110"]]
+  },
+  {
+    "first_name": "Abdelkader",
+    "last_name": "Hamdan",
+    "email": "abdelkader.hamdan@gmail.com",
+    "phone": "0738431408",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["English 1", "CS107"],
+    "secondary_courses": [["Language Theory", "CS108"]]
+  },
+  {
+    "first_name": "Amar",
+    "last_name": "Chakir",
+    "email": "amar.chakir@gmail.com",
+    "phone": "0555364081",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Language Theory", "CS108"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Mahdi",
+    "last_name": "Aggoune",
+    "email": "mahdi.aggoune@gmail.com",
+    "phone": "0691496025",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Databases", "CS109"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Chaima",
+    "last_name": "Achour",
+    "email": "chaima.achour@gmail.com",
+    "phone": "0615816711",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Object Oriented Programming", "CS110"],
+    "secondary_courses": [
+      ["Networks 2", "CS122"],
+      ["Operating Systems 1", "CS111"],
+      ["Computer Architecture 2", "CS112"]
+    ]
+  },
+  {
+    "first_name": "Rania",
+    "last_name": "Benmoussa",
+    "email": "rania.benmoussa@gmail.com",
+    "phone": "0720301115",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Operating Systems 1", "CS111"],
+    "secondary_courses": [
+      ["English 1", "CS107"],
+      ["RAD Tools", "CS124"]
+    ]
+  },
+  {
+    "first_name": "Bilal",
+    "last_name": "Baladi",
+    "email": "bilal.baladi@gmail.com",
+    "phone": "0644872419",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Computer Architecture 2", "CS112"],
+    "secondary_courses": [
+      ["Compilers", "CS119"],
+      ["Databases 2", "CS115"],
+      ["Software Engineering 2", "CS116"]
+    ]
+  },
+  {
+    "first_name": "Sara",
+    "last_name": "Ghaleb",
+    "email": "sara.ghaleb@gmail.com",
+    "phone": "0592125105",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Elective Option", "CS113"],
+    "secondary_courses": [
+      ["Computer Architecture 1", "CS105"],
+      ["English 1", "CS107"]
+    ]
+  },
+  {
+    "first_name": "Hanane",
+    "last_name": "Chelabi",
+    "email": "hanane.chelabi@gmail.com",
+    "phone": "0576570679",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["English 2", "CS114"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Akram",
+    "last_name": "Es",
+    "email": "akram.es@gmail.com",
+    "phone": "0527588671",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Databases 2", "CS115"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Naima",
+    "last_name": "Haddad",
+    "email": "naima.haddad@gmail.com",
+    "phone": "0677368747",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Software Engineering 2", "CS116"],
+    "secondary_courses": [
+      ["English", "CS121"],
+      ["Databases 2", "CS115"]
+    ]
+  },
+  {
+    "first_name": "Zineb",
+    "last_name": "Badawi",
+    "email": "zineb.badawi@gmail.com",
+    "phone": "0772740119",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Information Systems 2", "CS117"],
+    "secondary_courses": [
+      ["Algorithms and Data Structures", "CS101"],
+      ["Statistics", "CS104"]
+    ]
+  },
+  {
+    "first_name": "Nasreen",
+    "last_name": "Afifi",
+    "email": "nasreen.afifi@gmail.com",
+    "phone": "0613981312",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Networks 1", "CS118"],
+    "secondary_courses": [
+      ["Operating Systems 2", "CS120"],
+      ["Language Theory", "CS108"],
+      ["Final Year Project", "CS125"]
+    ]
+  },
+  {
+    "first_name": "Anas",
+    "last_name": "Abu",
+    "email": "anas.abu@gmail.com",
+    "phone": "0673338515",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Compilers", "CS119"],
+    "secondary_courses": [["Numerical Analysis", "CS102"]]
+  },
+  {
+    "first_name": "Sabrina",
+    "last_name": "Boudoukhane",
+    "email": "sabrina.boudoukhane@gmail.com",
+    "phone": "0526526053",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Operating Systems 2", "CS120"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Aziz",
+    "last_name": "Faouzi",
+    "email": "aziz.faouzi@gmail.com",
+    "phone": "0691821849",
+    "gender": "male",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["English", "CS121"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Rizlène",
+    "last_name": "Hajj",
+    "email": "rizlène.hajj@gmail.com",
+    "phone": "0724767044",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Networks 2", "CS122"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Fatima",
+    "last_name": "Daouk",
+    "email": "fatima.daouk@gmail.com",
+    "phone": "0782030480",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Software Engineering 3", "CS123"],
+    "secondary_courses": [["Networks 1", "CS118"]]
+  },
+  {
+    "first_name": "Sofia",
+    "last_name": "Cherif",
+    "email": "sofia.cherif@gmail.com",
+    "phone": "0716311952",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["RAD Tools", "CS124"],
+    "secondary_courses": [["Compilers", "CS119"]]
+  },
+  {
+    "first_name": "Nadia",
+    "last_name": "Chahid",
+    "email": "nadia.chahid@gmail.com",
+    "phone": "0663457534",
+    "gender": "female",
+    "faculty": "Faculty.ComputerScience",
+    "primary_course": ["Final Year Project", "CS125"],
+    "secondary_courses": [
+      ["Software Engineering 3", "CS123"],
+      ["Language Theory", "CS108"]
+    ]
+  },
+  {
+    "first_name": "Hafsa",
+    "last_name": "Benkirane",
+    "email": "hafsa.benkirane@gmail.com",
+    "phone": "0796255384",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Algebra 3", "MA101"],
+    "secondary_courses": [
+      ["Probability", "MA104"],
+      ["Analysis 4", "MA109"],
+      ["Supervised Project", "MA114"]
+    ]
+  },
+  {
+    "first_name": "Ahmed",
+    "last_name": "Debbeche",
+    "email": "ahmed.debbeche@gmail.com",
+    "phone": "0743524521",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Analysis 3", "MA102"],
+    "secondary_courses": [
+      ["Algebra 3", "MA101"],
+      ["Microprocessor Architecture", "MA113"],
+      ["General Topology", "MA103"]
+    ]
+  },
+  {
+    "first_name": "Souad",
+    "last_name": "Arab",
+    "email": "souad.arab@gmail.com",
+    "phone": "0722956588",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["General Topology", "MA103"],
+    "secondary_courses": [["Microprocessor Architecture", "MA113"]]
+  },
+  {
+    "first_name": "Ibrahim",
+    "last_name": "Boudoukhane",
+    "email": "ibrahim.boudoukhane@gmail.com",
+    "phone": "0728237411",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Probability", "MA104"],
+    "secondary_courses": [
+      ["Probability 2", "MA111"],
+      ["Algebra 3", "MA101"],
+      ["General Topology", "MA103"]
+    ]
+  },
+  {
+    "first_name": "Wafa",
+    "last_name": "Arab",
+    "email": "wafa.arab@gmail.com",
+    "phone": "0733197888",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Communication", "MA105"],
+    "secondary_courses": []
+  },
+  {
+    "first_name": "Rima",
+    "last_name": "Bahloul",
+    "email": "rima.bahloul@gmail.com",
+    "phone": "0622338209",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Electronics 2", "MA107"],
+    "secondary_courses": [
+      ["Algebra 4", "MA110"],
+      ["Algebra 3", "MA101"]
+    ]
+  },
+  {
+    "first_name": "Mahdi",
+    "last_name": "Chami",
+    "email": "mahdi.chami@gmail.com",
+    "phone": "0529630535",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Operations Research", "MA108"],
+    "secondary_courses": [["Computer Architecture 2", "MA106"]]
+  },
+  {
+    "first_name": "Shahid",
+    "last_name": "Abu",
+    "email": "shahid.abu@gmail.com",
+    "phone": "0741501423",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Analysis 4", "MA109"],
+    "secondary_courses": [
+      ["Supervised Project", "MA114"],
+      ["General Topology", "MA103"],
+      ["Probability 2", "MA111"]
+    ]
+  },
+  {
+    "first_name": "Fathi",
+    "last_name": "Chakir",
+    "email": "fathi.chakir@gmail.com",
+    "phone": "0793783570",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Algebra 4", "MA110"],
+    "secondary_courses": [
+      ["Algebra 3", "MA101"],
+      ["Operations Research", "MA108"],
+      ["Signal Processing", "MA112"]
+    ]
+  },
+  {
+    "first_name": "Lina",
+    "last_name": "Deghiche",
+    "email": "lina.deghiche@gmail.com",
+    "phone": "0638615412",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Probability 2", "MA111"],
+    "secondary_courses": [["Electronics 2", "MA107"]]
+  },
+  {
+    "first_name": "Habib",
+    "last_name": "Balouch",
+    "email": "habib.balouch@gmail.com",
+    "phone": "0523016651",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Signal Processing", "MA112"],
+    "secondary_courses": [["Algebra 3", "MA101"]]
+  },
+  {
+    "first_name": "Selma",
+    "last_name": "Benrahou",
+    "email": "selma.benrahou@gmail.com",
+    "phone": "0788422866",
+    "gender": "female",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Microprocessor Architecture", "MA113"],
+    "secondary_courses": [
+      ["Electronics 2", "MA107"],
+      ["General Topology", "MA103"]
+    ]
+  },
+  {
+    "first_name": "Abdou",
+    "last_name": "Boussaid",
+    "email": "abdou.boussaid@gmail.com",
+    "phone": "0618652424",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Supervised Project", "MA114"],
+    "secondary_courses": [["Signal Processing", "MA112"]]
+  },
+
+  {
+    "first_name": "Mohamed",
+    "last_name": "Boubenia",
+    "email": "mohamed.boubenia@gmail.com",
+    "phone": "0620659823",
+    "gender": "male",
+    "faculty": "Faculty.Mathematics",
+    "primary_course": ["Computer Architecture 2", "MA106"],
+    "secondary_courses": []
+  }
+]

@@ -1,0 +1,13 @@
+model SectionCourseAssignment {
+  id        String             @id @default(uuid())
+  semester  Semester
+  courseId  String
+  teacherId String
+  sectionId String
+  createdAt DateTime           @default(now())
+  updatedAt DateTime           @updatedAt
+  type      ScheduledClassType @default(Lecture)
+  course    Course             @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  section   Section            @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  teacher   Teacher            @relation(fields: [teacherId], references: [id], onDelete: Cascade)
+}

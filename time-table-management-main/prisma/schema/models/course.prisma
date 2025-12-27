@@ -1,0 +1,18 @@
+model Course {
+  id                          String                    @id @default(uuid())
+  name                        String
+  code                        String                    @unique
+  description                 String?
+  directedWorkWeeklySessions  Int                       @default(0)
+  practicalWorkWeeklySessions Int                       @default(0)
+  lectureWeeklySessions       Int                       @default(0)
+  createdAt                   DateTime                  @default(now())
+  updatedAt                   DateTime                  @updatedAt
+  schedules                   ClassSchedule[]
+  groupAssignments            GroupCourseAssignment[]
+  sectionAssignments          SectionCourseAssignment[]
+  primaryTeachers             Teacher[]                 @relation("PrimaryCourse")
+  firstSemesterSpecialities   Speciality[]              @relation("CourseToSpecialityFirstSemester")
+  secondSemesterSpecialities  Speciality[]              @relation("CourseToSpecialitySecondSemester")
+  secondaryTeachers           Teacher[]                 @relation("SecondaryCourses")
+}

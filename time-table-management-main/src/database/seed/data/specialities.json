@@ -1,0 +1,193 @@
+{
+  "specialities": [
+    {
+      "name": "ACAD",
+      "code": "ACAD",
+      "cycle": "Bachelor",
+      "faculty": "ComputerScience",
+      "year": "Y2",
+      "firstSemesterCourses": [
+        {
+          "name": "Algorithms and Data Structures",
+          "code": "CS101"
+        },
+        {
+          "name": "Numerical Analysis",
+          "code": "CS102"
+        },
+        {
+          "name": "Mathematical Logic",
+          "code": "CS103"
+        },
+        {
+          "name": "Statistics",
+          "code": "CS104"
+        },
+        {
+          "name": "Computer Architecture 1",
+          "code": "CS105"
+        },
+        {
+          "name": "Information Systems",
+          "code": "CS106"
+        },
+        {
+          "name": "English 1",
+          "code": "CS107"
+        }
+      ],
+      "secondSemesterCourses": [
+        {
+          "name": "Language Theory",
+          "code": "CS108"
+        },
+        {
+          "name": "Databases",
+          "code": "CS109"
+        },
+        {
+          "name": "Object Oriented Programming",
+          "code": "CS110"
+        },
+        {
+          "name": "Operating Systems 1",
+          "code": "CS111"
+        },
+        {
+          "name": "Computer Architecture 2",
+          "code": "CS112"
+        },
+        {
+          "name": "Elective Option",
+          "code": "CS113"
+        },
+        {
+          "name": "English 2",
+          "code": "CS114"
+        }
+      ]
+    },
+    {
+      "name": "ISIL",
+      "code": "ISIL",
+      "cycle": "Bachelor",
+      "faculty": "ComputerScience",
+      "year": "Y3",
+      "firstSemesterCourses": [
+        {
+          "name": "Databases 2",
+          "code": "CS115"
+        },
+        {
+          "name": "Software Engineering 2",
+          "code": "CS116"
+        },
+        {
+          "name": "Information Systems 2",
+          "code": "CS117"
+        },
+        {
+          "name": "Networks 1",
+          "code": "CS118"
+        },
+        {
+          "name": "Compilers",
+          "code": "CS119"
+        },
+        {
+          "name": "Operating Systems 2",
+          "code": "CS120"
+        },
+        {
+          "name": "English",
+          "code": "CS121"
+        }
+      ],
+      "secondSemesterCourses": [
+        {
+          "name": "Networks 2",
+          "code": "CS122"
+        },
+        {
+          "name": "Software Engineering 3",
+          "code": "CS123"
+        },
+        {
+          "name": "RAD Tools",
+          "code": "CS124"
+        },
+        {
+          "name": "Final Year Project",
+          "code": "CS125"
+        }
+      ]
+    },
+    {
+      "name": "RO",
+      "code": "RO",
+      "cycle": "Bachelor",
+      "faculty": "Mathematics",
+      "year": "Y2",
+      "firstSemesterCourses": [
+        {
+          "name": "Algebra 3",
+          "code": "MA101"
+        },
+        {
+          "name": "Analysis 3",
+          "code": "MA102"
+        },
+        {
+          "name": "General Topology",
+          "code": "MA103"
+        },
+        {
+          "name": "Probability",
+          "code": "MA104"
+        },
+        {
+          "name": "Communication",
+          "code": "MA105"
+        },
+        {
+          "name": "Computer Architecture 2",
+          "code": "MA106"
+        },
+        {
+          "name": "Electronics 2",
+          "code": "MA107"
+        }
+      ],
+      "secondSemesterCourses": [
+        {
+          "name": "Operations Research",
+          "code": "MA108"
+        },
+        {
+          "name": "Analysis 4",
+          "code": "MA109"
+        },
+        {
+          "name": "Algebra 4",
+          "code": "MA110"
+        },
+        {
+          "name": "Probability 2",
+          "code": "MA111"
+        },
+        {
+          "name": "Signal Processing",
+          "code": "MA112"
+        },
+        {
+          "name": "Microprocessor Architecture",
+          "code": "MA113"
+        },
+        {
+          "name": "Supervised Project",
+          "code": "MA114"
+        }
+      ]
+    }
+  ]
+}

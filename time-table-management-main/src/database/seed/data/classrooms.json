@@ -1,0 +1,450 @@
+[
+  {
+    "name": "AMPHI A",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI A located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI B",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI B located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI C",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI C located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI D",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI D located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI E",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI E located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI F",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI F located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI G",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI G located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI H",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI H located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI I",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI I located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI J",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI J located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI K",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI K located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI L",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI L located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI M",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI M located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI N",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI N located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI O",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI O located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI P",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI P located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI Q",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI Q located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI R",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI R located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI S",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI S located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI T",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI T located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI U",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI U located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI V",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI V located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI W",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI W located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI X",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI X located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": []
+  },
+  {
+    "name": "AMPHI Y",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI Y located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "AMPHI Z",
+    "type": "Amphitheater",
+    "description": "Large amphitheater AMPHI Z located in Amphi Building.",
+    "location": "Amphi Building",
+    "capacity": 200,
+    "features": ["Projector"]
+  },
+  {
+    "name": "LAB 1",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 1 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 2",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 2 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 3",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 3 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 4",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 4 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 5",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 5 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 6",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 6 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "NetTools"]
+  },
+  {
+    "name": "LAB 7",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 7 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 8",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 8 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 9",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 9 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "Computers"]
+  },
+  {
+    "name": "LAB 10",
+    "type": "Laboratory",
+    "description": "Laboratory LAB 10 located in Faculty.",
+    "location": "Faculty",
+    "capacity": 40,
+    "features": ["Projector", "NetTools"]
+  },
+  {
+    "name": "353",
+    "type": "Basic",
+    "description": "Basic classroom 353 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 80,
+    "features": []
+  },
+  {
+    "name": "375",
+    "type": "Basic",
+    "description": "Basic classroom 375 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 60,
+    "features": []
+  },
+  {
+    "name": "270",
+    "type": "Basic",
+    "description": "Basic classroom 270 located in The 200s building.",
+    "location": "The 200s building",
+    "capacity": 60,
+    "features": ["Projector"]
+  },
+  {
+    "name": "351",
+    "type": "Basic",
+    "description": "Basic classroom 351 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 80,
+    "features": ["Projector"]
+  },
+  {
+    "name": "238",
+    "type": "Basic",
+    "description": "Basic classroom 238 located in The 200s building.",
+    "location": "The 200s building",
+    "capacity": 60,
+    "features": ["Projector"]
+  },
+  {
+    "name": "365",
+    "type": "Basic",
+    "description": "Basic classroom 365 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "315",
+    "type": "Basic",
+    "description": "Basic classroom 315 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "354",
+    "type": "Basic",
+    "description": "Basic classroom 354 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 80,
+    "features": []
+  },
+  {
+    "name": "446",
+    "type": "Basic",
+    "description": "Basic classroom 446 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 40,
+    "features": ["Projector"]
+  },
+  {
+    "name": "435",
+    "type": "Basic",
+    "description": "Basic classroom 435 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 80,
+    "features": ["Projector"]
+  },
+  {
+    "name": "481",
+    "type": "Basic",
+    "description": "Basic classroom 481 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "226",
+    "type": "Basic",
+    "description": "Basic classroom 226 located in The 200s building.",
+    "location": "The 200s building",
+    "capacity": 60,
+    "features": []
+  },
+  {
+    "name": "178",
+    "type": "Basic",
+    "description": "Basic classroom 178 located in The 100s building.",
+    "location": "The 100s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "310",
+    "type": "Basic",
+    "description": "Basic classroom 310 located in The 300s building.",
+    "location": "The 300s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "492",
+    "type": "Basic",
+    "description": "Basic classroom 492 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 80,
+    "features": []
+  },
+  {
+    "name": "252",
+    "type": "Basic",
+    "description": "Basic classroom 252 located in The 200s building.",
+    "location": "The 200s building",
+    "capacity": 40,
+    "features": []
+  },
+  {
+    "name": "422",
+    "type": "Basic",
+    "description": "Basic classroom 422 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 80,
+    "features": []
+  },
+  {
+    "name": "497",
+    "type": "Basic",
+    "description": "Basic classroom 497 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 80,
+    "features": ["Projector"]
+  },
+  {
+    "name": "292",
+    "type": "Basic",
+    "description": "Basic classroom 292 located in The 200s building.",
+    "location": "The 200s building",
+    "capacity": 60,
+    "features": ["Projector"]
+  },
+  {
+    "name": "470",
+    "type": "Basic",
+    "description": "Basic classroom 470 located in The 400s building.",
+    "location": "The 400s building",
+    "capacity": 80,
+    "features": ["Projector"]
+  }
+]

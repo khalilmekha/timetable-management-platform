@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Algorithms and Data Structures",
+    "code": "CS101",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Numerical Analysis",
+    "code": "CS102",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Mathematical Logic",
+    "code": "CS103",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Statistics",
+    "code": "CS104",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Computer Architecture 1",
+    "code": "CS105",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Information Systems",
+    "code": "CS106",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "English 1",
+    "code": "CS107",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Language Theory",
+    "code": "CS108",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Databases",
+    "code": "CS109",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Object Oriented Programming",
+    "code": "CS110",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Operating Systems 1",
+    "code": "CS111",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Computer Architecture 2",
+    "code": "CS112",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Elective Option",
+    "code": "CS113",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "English 2",
+    "code": "CS114",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Databases 2",
+    "code": "CS115",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Software Engineering 2",
+    "code": "CS116",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Information Systems 2",
+    "code": "CS117",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Networks 1",
+    "code": "CS118",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Compilers",
+    "code": "CS119",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Operating Systems 2",
+    "code": "CS120",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "English",
+    "code": "CS121",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Networks 2",
+    "code": "CS122",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Software Engineering 3",
+    "code": "CS123",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "RAD Tools",
+    "code": "CS124",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Final Year Project",
+    "code": "CS125",
+    "lWeeklySessions": 14,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Algebra 3",
+    "code": "MA101",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Analysis 3",
+    "code": "MA102",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "General Topology",
+    "code": "MA103",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Probability",
+    "code": "MA104",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Communication",
+    "code": "MA105",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Computer Architecture 2",
+    "code": "MA106",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Electronics 2",
+    "code": "MA107",
+    "lWeeklySessions": 1,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Operations Research",
+    "code": "MA108",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Analysis 4",
+    "code": "MA109",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Algebra 4",
+    "code": "MA110",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Probability 2",
+    "code": "MA111",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Signal Processing",
+    "code": "MA112",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 1
+  },
+  {
+    "name": "Microprocessor Architecture",
+    "code": "MA113",
+    "lWeeklySessions": 2,
+    "dwWeeklySessions": 1,
+    "pwWeeklySessions": 0
+  },
+  {
+    "name": "Supervised Project",
+    "code": "MA114",
+    "lWeeklySessions": 0,
+    "dwWeeklySessions": 0,
+    "pwWeeklySessions": 2
+  }
+]

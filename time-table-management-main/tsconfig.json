@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2021" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    /* Modules */
+    "module": "CommonJS" /* Specify what module code is generated. */,
+    "rootDir": "./src" /* Specify the root folder within your source files. */,
+    //"moduleResolution": "Node16" /* Specify how TypeScript looks up a file from a given module specifier. */,
+    //"baseUrl": "./src" /* Specify the base directory to resolve non-relative module names. */,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@types/*": ["./src/types/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@database/*": ["./src/database/*"],
+
+      "@modules/*": ["./src/modules/*"],
+      "@shared/*": ["./src/shared/*"],
+      "@middlewares/*": ["./src/shared/middlewares/*"],
+      "@constants/*": ["./src/shared/constants/*"]
+    } /* Specify a set of entries that re-map imports to additional lookup locations. */,
+
+    "typeRoots": [
+      "src/types",
+      "node_modules/@types"
+    ] /* Specify multiple folders that act like './node_modules/@types'. */,
+
+    "resolveJsonModule": true /* Enable importing .json files. */,
+    "sourceMap": true /* Create source map files for emitted JavaScript files. */,
+    "outDir": "./dist" /* Specify an output folder for all emitted files. */,
+    "removeComments": true /* Disable emitting comments. */,
+
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
+    "jsx": "react-jsx",
+
+    "strict": true /* Enable all strict type-checking options. */,
+    "experimentalDecorators": true /* Enables experimental support for decorators. */,
+    "emitDecoratorMetadata": true /* Enables experimental support for emitting type metadata for decorators. */,
+    "skipLibCheck": false /* Skip type checking all .d.ts files. */
+  },
+  
+  "include": ["src"]
+}

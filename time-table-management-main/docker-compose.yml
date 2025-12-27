@@ -1,0 +1,53 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9999:9999"
+      - "5555:5555"
+    env_file:
+      - .env.production
+    networks:
+      - backend_network
+    depends_on:
+      db:
+        condition: service_healthy
+      cache:
+        condition: service_started
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "wget http://localhost:9999/health -o /dev/null || exit 1",
+        ]
+      interval: 1m
+      timeout: 30s
+      retries: 5
+      start_period: 30s
+
+  db:
+    image: postgres:latest
+    env_file:
+      - .env.production
+    volumes:
+      - ./.data:/var/lib/postgresql/data
+    networks:
+      - backend_network
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+  cache:
+    image: redis:latest
+    networks:
+      - backend_network
+
+networks:
+  backend_network:
+    driver: bridge
+
+volumes:
+  db_data:
+    driver: local

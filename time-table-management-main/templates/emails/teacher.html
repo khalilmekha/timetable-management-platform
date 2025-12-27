@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to Faculty Timetable Platform</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f5f5f5;
+        line-height: 1.6;
+      }
+
+      .email-container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      .header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 40px 30px;
+        text-align: center;
+      }
+
+      .header h1 {
+        margin: 0;
+        font-size: 28px;
+        font-weight: 600;
+      }
+
+      .header p {
+        margin: 10px 0 0 0;
+        font-size: 16px;
+        opacity: 0.9;
+      }
+
+      .content {
+        padding: 40px 30px;
+      }
+
+      .welcome-message {
+        font-size: 18px;
+        color: #333333;
+        margin-bottom: 30px;
+      }
+
+      .credentials-box {
+        background-color: #f8f9fa;
+        border: 1px solid #e9ecef;
+        border-radius: 8px;
+        padding: 25px;
+        margin: 30px 0;
+      }
+
+      .credentials-box h3 {
+        margin: 0 0 20px 0;
+        color: #495057;
+        font-size: 18px;
+      }
+
+      .credential-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 12px 0;
+        border-bottom: 1px solid #dee2e6;
+      }
+
+      .credential-item:last-child {
+        border-bottom: none;
+      }
+
+      .credential-label {
+        font-weight: 600;
+        color: #6c757d;
+        min-width: 80px;
+      }
+
+      .credential-value {
+        color: #333333;
+        font-family: "Courier New", monospace;
+        background-color: #ffffff;
+        padding: 8px 12px;
+        border-radius: 4px;
+        border: 1px solid #dee2e6;
+        flex: 1;
+        margin-left: 15px;
+      }
+
+      .cta-button {
+        display: inline-block;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        text-decoration: none;
+        padding: 15px 30px;
+        border-radius: 6px;
+        font-weight: 600;
+        font-size: 16px;
+        margin: 30px 0;
+        transition: transform 0.2s ease;
+      }
+
+      .cta-button:hover {
+        transform: translateY(-2px);
+      }
+
+      .security-notice {
+        background-color: #fff3cd;
+        border: 1px solid #ffeaa7;
+        border-radius: 6px;
+        padding: 20px;
+        margin: 30px 0;
+      }
+
+      .security-notice h4 {
+        margin: 0 0 10px 0;
+        color: #856404;
+        font-size: 16px;
+      }
+
+      .security-notice p {
+        margin: 0;
+        color: #856404;
+        font-size: 14px;
+      }
+
+      .footer {
+        background-color: #f8f9fa;
+        padding: 30px;
+        text-align: center;
+        border-top: 1px solid #e9ecef;
+      }
+
+      .footer p {
+        margin: 0;
+        color: #6c757d;
+        font-size: 14px;
+      }
+
+      .footer a {
+        color: #667eea;
+        text-decoration: none;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .email-container {
+          width: 100% !important;
+        }
+
+        .header,
+        .content,
+        .footer {
+          padding: 20px !important;
+        }
+
+        .credential-item {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .credential-value {
+          margin-left: 0;
+          margin-top: 8px;
+          width: 100%;
+          box-sizing: border-box;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="email-container">
+      <!-- Header -->
+      <div class="header">
+        <h1>Welcome to Faculty Timetable Platform</h1>
+        <p>Your account has been successfully created</p>
+      </div>
+
+      <!-- Main Content -->
+      <div class="content">
+        <div class="welcome-message">
+          <p>Dear <strong>{firstName} {lastName}</strong>,</p>
+          <p>
+            Welcome to the Faculty Timetable Management Platform! We're excited
+            to have you on board. Your account has been successfully created and
+            you can now access all the features to manage and organize faculty
+            schedules efficiently.
+          </p>
+        </div>
+
+        <!-- Login Credentials -->
+        <div class="credentials-box">
+          <h3>Your Login Credentials</h3>
+          <div class="credential-item">
+            <span class="credential-label">Email:</span>
+            <span class="credential-value">{email}</span>
+          </div>
+          <div class="credential-item">
+            <span class="credential-label">Password:</span>
+            <span class="credential-value">{password}</span>
+          </div>
+        </div>
+
+        <!-- Call to Action -->
+        <div style="text-align: center">
+          <a href="http://localhost:3000" class="cta-button"
+            >Access Your Dashboard</a
+          >
+        </div>
+
+        <!-- Security Notice -->
+        <div class="security-notice">
+          <h4>🔒 Security Reminder</h4>
+          <p>
+            For your security, we recommend changing your password after your
+            first login. Keep your login credentials confidential and never
+            share them with others.
+          </p>
+        </div>
+
+        <!-- Additional Information -->
+        <div style="margin-top: 30px">
+          <h3 style="color: #333333; margin-bottom: 15px">What's Next?</h3>
+          <ul style="color: #666666; padding-left: 20px">
+            <li>Log in to your dashboard using the credentials above</li>
+            <li>Complete your profile setup</li>
+            <li>Explore the timetable management features</li>
+            <li>Start organizing faculty schedules</li>
+          </ul>
+        </div>
+
+        <div
+          style="
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #e9ecef;
+          "
+        >
+          <p style="color: #666666; margin: 0">
+            If you have any questions or need assistance, please don't hesitate
+            to contact our support team.
+          </p>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <div class="footer">
+        <p>&copy; 2024 Faculty Timetable Platform. All rights reserved.</p>
+        <p>
+          <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> |
+          <a href="#">Support</a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

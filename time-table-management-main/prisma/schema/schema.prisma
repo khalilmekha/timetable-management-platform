@@ -1,0 +1,27 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["prismaSchemaFolder"]
+}
+
+generator dbml {
+  provider        = "prisma-dbml-generator"
+  output          = "../generated/dbml"
+  previewFeatures = ["prismaSchemaFolder"]
+}
+
+generator zod {
+  provider         = "zod-prisma-types"
+  output           = "../generated/zod"
+  previewFeatures  = ["prismaSchemaFolder"]
+  useMultipleFiles = "true"
+}
+
+generator docs {
+  provider = "node node_modules/prisma-docs-generator"
+  output   = "../generated/docs"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}

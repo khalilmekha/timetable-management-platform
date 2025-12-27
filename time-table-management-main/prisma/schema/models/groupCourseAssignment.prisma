@@ -1,0 +1,12 @@
+model GroupCourseAssignment {
+  id        String                    @id @default(uuid())
+  type      GroupCourseAssignmentType
+  groupId   String
+  teacherId String
+  createdAt DateTime                  @default(now())
+  updatedAt DateTime                  @updatedAt
+  courseId  String
+  course    Course                    @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  group     SectionGroup              @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  teacher   Teacher                   @relation(fields: [teacherId], references: [id], onDelete: Cascade)
+}

@@ -1,0 +1,13 @@
+model Speciality {
+  id        String    @id @default(uuid())
+  name      String
+  code      String    @unique
+  faculty   Faculty
+  cycle     Cycle
+  year      CycleYear
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  sections  Section[]
+  firstSemesterCourses   Course[]  @relation("CourseToSpecialityFirstSemester")
+  secondSemesterCourses  Course[]  @relation("CourseToSpecialitySecondSemester")
+}

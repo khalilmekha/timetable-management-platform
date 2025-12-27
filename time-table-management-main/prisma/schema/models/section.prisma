@@ -1,0 +1,11 @@
+model Section {
+  id           String                    @id @default(uuid())
+  code         String
+  specialityId String
+  createdAt    DateTime                  @default(now())
+  updatedAt    DateTime                  @updatedAt
+  schedules    ClassSchedule[]
+  speciality   Speciality                @relation(fields: [specialityId], references: [id], onDelete: Cascade)
+  assignments  SectionCourseAssignment[]
+  groups       SectionGroup[]
+}
