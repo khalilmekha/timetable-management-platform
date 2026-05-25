@@ -405,4 +405,4 @@ Developed by **khalilmekha** and the development team.
 
 ---
 
-**Built with ❤️ using modern JavaScript/TypeScript technologies**
+
